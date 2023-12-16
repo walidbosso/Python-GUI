@@ -19,15 +19,16 @@
   <a/>
 </a></p>
 
-[![GitHub forks](https://img.shields.io/github/forks/walidbosso/Python-GUI.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/walidbosso/Python-GUI/network/)
-[![GitHub watchers](https://img.shields.io/github/watchers/walidbosso/Python-GUI.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/walidbosso/Python-GUI/watchers/)
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Python-GUI)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/walidbosso/Python-GUI)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/walidbosso/Python-GUI)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/walidbosso/Python-GUI)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/walidbosso/Python-GUI)
+<div align="center">
+  
+----------------------
+> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
+----------------------
 
 
- Feel free to fork the repository just leave a star ⭐ and you're free to go 😄
 
- MIT Licence
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Python-GUI?style=social)
+
+![GitHub License](https://img.shields.io/github/license/walidbosso/Python-GUI?style=social)
+
+𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
