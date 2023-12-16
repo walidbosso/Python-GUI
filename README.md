@@ -21,6 +21,12 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/walidbosso/Python-GUI.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/walidbosso/Python-GUI/network/)
 [![GitHub watchers](https://img.shields.io/github/watchers/walidbosso/Python-GUI.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/walidbosso/Python-GUI/watchers/)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Python-GUI)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/walidbosso/Python-GUI)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/walidbosso/Python-GUI)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/walidbosso/Python-GUI)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/walidbosso/Python-GUI)
+
 
  Feel free to fork the repository just leave a star ⭐ and you're free to go 😄
 
