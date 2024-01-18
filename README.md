@@ -34,7 +34,7 @@
 
 ## Overview
 
-Welcome to the Pharmacy Management System, a comprehensive solution utilizing SQLite, XML, Files, and GUI libraries such as Tkinter, PyQt, and wxPython. This project is tailored for a pharmacy management, integrating various technologies to handle data storage, user interface, and overall system functionality.
+Welcome to the Pharmacy Management System, a comprehensive solution utilizing SQLite, XML, Files, and GUI libraries such as Tkinter, PyQt, and wxPython, and finally a Python framework which is Django which is known for an integrated ORM and MVT architecture. This project is tailored for a pharmacy management, integrating various technologies to handle data storage, user interface, and overall system functionality.
 
 ## Key Topics
 
@@ -45,6 +45,7 @@ Welcome to the Pharmacy Management System, a comprehensive solution utilizing SQ
   - **wxPython**: Enabling platform-native interfaces for seamless interactions.
 - **XML Handling**: Utilizing XML for structured data storage and retrieval.
 - **SQLite Database (sqlite3)**: Managing the database for structured and efficient data storage.
+- **Django**: An example of a Mini project of a Full Stack web application.
 - **Pharmacy Management**: Customized functionalities for pharmacy-specific operations.
 
 ## Getting Started
