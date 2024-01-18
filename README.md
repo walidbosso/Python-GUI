@@ -26,7 +26,7 @@
 
 <br/>
   
-# Pharmacy Management System with SQLite, XML, Files, and GUI
+# Pharmacy Management System with SQLite, XML, Files, GUI and Django.
   
   </div>
 
