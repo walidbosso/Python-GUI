@@ -80,13 +80,14 @@ def create_client():
         
         client = Client(client_id, first_name, last_name, number)
 
-       
+       # SEARCH FOR ID FIRST IF THE CLIENT EXIST ALREADY
         existing_client = root.find(f"./client[client_id='{client.client_id}']")
         if existing_client is not None:
             existing_client.find('first_name').text = client.first_name
             existing_client.find('last_name').text = client.last_name
             existing_client.find('number').text = client.number
         else:
+            #CREATE A NEW SUB ELEMENT
             new_client = ET.SubElement(root, 'client')
             ET.SubElement(new_client, 'client_id').text = client.client_id
             ET.SubElement(new_client, 'first_name').text = client.first_name
@@ -99,7 +100,7 @@ def create_client():
 
 
 def show_clients():
-   
+   # CLEAR TABLE
     for row in clients_treeview.get_children():
         clients_treeview.delete(row)
 
@@ -139,6 +140,7 @@ def delete_client():
 
 # Function to update a client in the XML file
 def update_client():
+    # WE take id from selection and data from input
     selected_item = clients_treeview.selection()
     if selected_item:
         client_id = clients_treeview.item(selected_item, 'values')[0]

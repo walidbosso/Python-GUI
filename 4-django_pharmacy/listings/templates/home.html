@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% block title %}{% endblock %}</title>
+    {% load bootstrap5 %} {% bootstrap_css %} {% bootstrap_javascript %}
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/add">add</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <table class="table">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">name</th>
+          <th scope="col">company</th>
+          <th scope="col">price</th>
+          <th scope="col">number in stock</th>
+          <th scope="col">update</th>
+          <th scope="col">delete</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for product in products %}
+        <tr>
+          <td>{{product.name}}</td>
+          <td>{{product.company}}</td>
+          <td>{{product.price}}</td>
+          <td>{{product.number_in_stock}}</td>
+          <td>
+            <a href="/update/{{product.id}}" class="btn btn-success">Update</a>
+          </td>
+          <td>
+            <a
+              onclick="return confirm('are you sure?')"
+              href="/delete/{{product.id}}"
+              class="btn btn-danger"
+              >Delete</a
+            >
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>
