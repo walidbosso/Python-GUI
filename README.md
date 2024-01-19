@@ -58,18 +58,19 @@ Explore the project's capabilities using the provided resources, including Jupyt
 This project operates under the **Apache-2.0 License**. Refer to the [LICENSE](LICENSE) file for detailed information.
 
 
-## Feedback and Contributions
+## Feedback and Contributions 
 
 Your feedback and contributions are invaluable! Feel free to open issues, submit pull requests, or connect for discussions.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions. 
-
+- Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions.
+- ![PRs Welcome](https://img.shields.io/badge/🌐_PRs-Welcome-navy.svg?=for-the-badge) ![Ask me anything](https://img.shields.io/badge/❔_Ask%20me-anything-1abc9c.svg?=for-the-badge)  
 <br>
 
 <div align="center">
   
 ----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
+> >  <br/> ![Made with Love](https://img.shields.io/badge/❤️‍🔥_Made%20with-Love-red.svg) <br/> <br/> 
+ &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
 ----------------------
 
 <details>
