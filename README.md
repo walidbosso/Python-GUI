@@ -69,8 +69,8 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 <div align="center">
   
 ----------------------
-> >  <br/> ![Made with Love](https://img.shields.io/badge/❤️‍🔥_Made%20with-Love-red.svg) <br/> <br/> 
- &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
+> >  <br/>  &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  <br/>
+> > ![Made with Love](https://img.shields.io/badge/❤️‍🔥_Made%20with-Love-red.svg)
 ----------------------
 
 <details>
